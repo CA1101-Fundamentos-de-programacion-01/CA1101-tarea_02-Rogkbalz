@@ -1,4 +1,4 @@
-Peso_luna_profe=12.375
-while Peso_luna_profe < 186:
-  print (Peso_luna_profe)
-  Peso_luna_profe+=12,375
+Peso_profe_luna=12.375
+while Peso_profe_luna < 186:
+    print (Peso_profe_luna)
+    Peso_profe_luna+=12.375
